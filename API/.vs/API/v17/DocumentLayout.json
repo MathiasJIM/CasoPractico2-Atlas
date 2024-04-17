@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1978FBC5-333F-454D-B994-E433AA14F8C3}|API\\API.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1978FBC5-333F-454D-B994-E433AA14F8C3}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2FEF13-98C2-4265-BB72-60795C92AF13}|DA\\DA.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\da\\seguridadda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2FEF13-98C2-4265-BB72-60795C92AF13}|DA\\DA.csproj|solutionrelative:da\\seguridadda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\abstracciones\\da\\iseguridadda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|solutionrelative:abstracciones\\da\\iseguridadda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607BEBBF-9263-44BA-9D37-5F0B5E0097DE}|AutorizacionMiddleware\\AutorizacionMiddleware.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\autorizacionmiddleware\\claimsperfilesmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607BEBBF-9263-44BA-9D37-5F0B5E0097DE}|AutorizacionMiddleware\\AutorizacionMiddleware.csproj|solutionrelative:autorizacionmiddleware\\claimsperfilesmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607BEBBF-9263-44BA-9D37-5F0B5E0097DE}|AutorizacionMiddleware\\AutorizacionMiddleware.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\autorizacionmiddleware\\autorizacionmiddleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{607BEBBF-9263-44BA-9D37-5F0B5E0097DE}|AutorizacionMiddleware\\AutorizacionMiddleware.csproj|solutionrelative:autorizacionmiddleware\\autorizacionmiddleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\abstracciones\\bw\\iautenticacionbw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|solutionrelative:abstracciones\\bw\\iautenticacionbw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE694A95-6EE2-4468-A6FD-B39A7010729E}|BW\\BW.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\bw\\autenticacionbw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE694A95-6EE2-4468-A6FD-B39A7010729E}|BW\\BW.csproj|solutionrelative:bw\\autenticacionbw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1978FBC5-333F-454D-B994-E433AA14F8C3}|API\\API.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\api\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1978FBC5-333F-454D-B994-E433AA14F8C3}|API\\API.csproj|solutionrelative:api\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\abstracciones\\bc\\iautenticacionbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|solutionrelative:abstracciones\\bc\\iautenticacionbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF388571-8EDC-45F4-9D30-FF261E06DC95}|BC\\BC.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\bc\\autenticacionbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF388571-8EDC-45F4-9D30-FF261E06DC95}|BC\\BC.csproj|solutionrelative:bc\\autenticacionbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\abstracciones\\abstracciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|solutionrelative:abstracciones\\abstracciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\abstracciones\\modelos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|solutionrelative:abstracciones\\modelos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\abstracciones\\entidad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|solutionrelative:abstracciones\\entidad\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\abstracciones\\api\\iautenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|solutionrelative:abstracciones\\api\\iautenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|c:\\users\\mathias\\onedrive\\escritorio\\casopractico2-atlas\\api\\abstracciones\\modelos\\loginautenticar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC44A3D-FD32-4C2D-B937-0CB8E088C7E8}|Abstracciones\\Abstracciones.csproj|solutionrelative:abstracciones\\modelos\\loginautenticar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorizacionMiddleware",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\AutorizacionMiddleware\\AutorizacionMiddleware.csproj",
+              "RelativeDocumentMoniker": "AutorizacionMiddleware\\AutorizacionMiddleware.csproj",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\AutorizacionMiddleware\\AutorizacionMiddleware.csproj",
+              "RelativeToolTip": "AutorizacionMiddleware\\AutorizacionMiddleware.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T04:04:53.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaimsPerfilesMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\AutorizacionMiddleware\\ClaimsPerfilesMiddleware.cs",
+              "RelativeDocumentMoniker": "AutorizacionMiddleware\\ClaimsPerfilesMiddleware.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\AutorizacionMiddleware\\ClaimsPerfilesMiddleware.cs",
+              "RelativeToolTip": "AutorizacionMiddleware\\ClaimsPerfilesMiddleware.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswCwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:04:55.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISeguridadDA.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\DA\\ISeguridadDA.cs",
+              "RelativeDocumentMoniker": "Abstracciones\\DA\\ISeguridadDA.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\DA\\ISeguridadDA.cs",
+              "RelativeToolTip": "Abstracciones\\DA\\ISeguridadDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:59:39.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeguridadDA.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\DA\\SeguridadDA.cs",
+              "RelativeDocumentMoniker": "DA\\SeguridadDA.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\DA\\SeguridadDA.cs",
+              "RelativeToolTip": "DA\\SeguridadDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:57:34.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:51:21.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutenticacionBC.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\BC\\AutenticacionBC.cs",
+              "RelativeDocumentMoniker": "BC\\AutenticacionBC.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\BC\\AutenticacionBC.cs",
+              "RelativeToolTip": "BC\\AutenticacionBC.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:44:43.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutenticacionBW.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\BW\\AutenticacionBW.cs",
+              "RelativeDocumentMoniker": "BW\\AutenticacionBW.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\BW\\AutenticacionBW.cs",
+              "RelativeToolTip": "BW\\AutenticacionBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:44:32.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAutenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\API\\IAutenticacionController.cs",
+              "RelativeDocumentMoniker": "Abstracciones\\API\\IAutenticacionController.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\API\\IAutenticacionController.cs",
+              "RelativeToolTip": "Abstracciones\\API\\IAutenticacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:43:41.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAutenticacionBC.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\BC\\IAutenticacionBC.cs",
+              "RelativeDocumentMoniker": "Abstracciones\\BC\\IAutenticacionBC.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\BC\\IAutenticacionBC.cs",
+              "RelativeToolTip": "Abstracciones\\BC\\IAutenticacionBC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:43:22.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAutenticacionBW.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\BW\\IAutenticacionBW.cs",
+              "RelativeDocumentMoniker": "Abstracciones\\BW\\IAutenticacionBW.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\BW\\IAutenticacionBW.cs",
+              "RelativeToolTip": "Abstracciones\\BW\\IAutenticacionBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:43:07.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\Modelos\\Login.cs",
+              "RelativeDocumentMoniker": "Abstracciones\\Modelos\\Login.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\Modelos\\Login.cs",
+              "RelativeToolTip": "Abstracciones\\Modelos\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:38:55.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginAutenticar.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\Modelos\\LoginAutenticar.cs",
+              "RelativeDocumentMoniker": "Abstracciones\\Modelos\\LoginAutenticar.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\Modelos\\LoginAutenticar.cs",
+              "RelativeToolTip": "Abstracciones\\Modelos\\LoginAutenticar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:38:51.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\Entidad\\Login.cs",
+              "RelativeDocumentMoniker": "Abstracciones\\Entidad\\Login.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\Entidad\\Login.cs",
+              "RelativeToolTip": "Abstracciones\\Entidad\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:38:12.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\API\\Controllers\\AutenticacionController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AutenticacionController.cs",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\API\\Controllers\\AutenticacionController.cs",
+              "RelativeToolTip": "API\\Controllers\\AutenticacionController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:36:29.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Abstracciones",
+              "DocumentMoniker": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\Abstracciones.csproj",
+              "RelativeDocumentMoniker": "Abstracciones\\Abstracciones.csproj",
+              "ToolTip": "C:\\Users\\Mathias\\OneDrive\\Escritorio\\CasoPractico2-Atlas\\API\\Abstracciones\\Abstracciones.csproj",
+              "RelativeToolTip": "Abstracciones\\Abstracciones.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T03:06:05.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
